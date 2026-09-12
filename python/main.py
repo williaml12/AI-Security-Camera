@@ -63,9 +63,6 @@ TIMEZONE = ZoneInfo("America/New_York")
 # TELEGRAM CONFIGURATION
 # ============================================================
 
-# BOT_TOKEN = "8891781087:AAFuvOtBBiqgyS5FZOMTm9WyzZqFjnYV7yM"
-# CHAT_ID = "8898500928"
-
 BOT_TOKEN = "YOUR_BOT_TOKEN"
 CHAT_ID = "YOUR_CHAT_ID"
 
