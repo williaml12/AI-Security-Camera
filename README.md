@@ -1157,7 +1157,7 @@ Special thanks to the open-source and developer communities behind the tools and
 
 ## 👨‍💻 Author
 
-**William Liu**
+**William Lu**
 
 AI / ML • Computer Vision • Embedded Systems • Robotics • Engineering
 
