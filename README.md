@@ -2,7 +2,7 @@
 
 An AI-powered security camera system built with **Arduino UNO Q**, a **PIR motion sensor**, a **USB camera**, and AI-based **face detection and image classification**.
 
-The system detects motion, waits for a face to appear, captures an image, classifies the detected person as either **Family** or **Stranger**, and automatically saves and sends a cropped stranger-face snapshot through **Telegram** when an unknown person is detected.
+The system detects motion, waits for a face to appear, captures an image, classifies the detected person as either **Family** or **Stranger**, and automatically saves and sends a cropped stranger-face snapshot through **Telegram** when an unknown person is detected. It will integrate into a smart doorbell that keeps your data private.
 
 ---
 
